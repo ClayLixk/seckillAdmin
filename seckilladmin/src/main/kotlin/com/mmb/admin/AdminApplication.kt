@@ -1,11 +1,11 @@
-package com.mmb.seckilladmin
+package com.mmb.admin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SeckilladminApplication
+class AdminApplication
 
 fun main(args: Array<String>) {
-    runApplication<SeckilladminApplication>(*args)
+    runApplication<AdminApplication>(*args)
 }

@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mmb</groupId>
-    <artifactId>seckilladmin</artifactId>
+    <artifactId>admin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>seckilladmin</name>
-    <description>mmb seckill Admin</description>
+    <name>admin</name>
+    <description>mmb seckill admin</description>
 
     <properties>
         <java.version>1.8</java.version>
